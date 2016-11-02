@@ -26,6 +26,8 @@ public class Menu {
 		Veiculo v = new Carro(codigo, placa, modelo);
 
 		veiculos.cadastrar(v);
+		
+		// adicionando comentario pra testar o git
 	}
 
 }
